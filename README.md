@@ -2,9 +2,9 @@
 
 End-to-end SQL analysis of a retail transactions dataset: schema design, data cleaning, exploratory analysis, and business questions answered in SQL.
 
-**Database:** MySQL 8.0+ (window functions and CTEs are used, so 5.7 will not work)
-**Dataset:** 2,000 retail transactions, 11 columns, CSV (1,997 after cleaning)
-**Tools:** MySQL Workbench
+- **Database:** MySQL 8.0+ (window functions and CTEs are used, so 5.7 will not work)
+- **Dataset:** 2,000 retail transactions, 11 columns, CSV (1,997 after cleaning)
+- **Tools:** MySQL Workbench
 
 ---
 
