@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# MySQL dumps and local exports
+*.sql.bak
+*.dump
+exports/
